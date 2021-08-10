@@ -2,7 +2,7 @@
 
 Este projeto de estudo foi desenvolvido em **React**, com objetivo de adquirir novos aprendizados e aperfeiçoar os conhecimentos já obtidos.
 
-- Para realização deste projeto, foi consultada uma API que retorna alguns filmes.
+- Para realização deste projeto, foi consultada uma [API](https://sujeitoprogramador.com/r-api/?api=filmes) que retorna alguns filmes.
 
 - O projeto apresenta **rotas**, onde inicialmente há a página de home, contendo todos os filmes, e leva aos detalhes de cada filme, podendo acessar os trailers e também salvar nossos filmes preferidos por meio do **localStorage** e podemos acessar a lista de filmes na sessão de _salvos_.
 
